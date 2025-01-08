@@ -15,7 +15,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # error: cannot install while Rust is installed
 ```
 it seems I have tried before...
-
+ah, played with wasm.
+https://github.com/yokrh/rust-training
 
 ```sh
 # confirm Rust and Cargo, which is a build tool of Rust, are installed
